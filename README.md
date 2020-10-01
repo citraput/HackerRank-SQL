@@ -23,3 +23,4 @@
 |19.| Basic Select | Easy | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | 15 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/19-Higher_Than_75_Marks.sql) |
 |20.| Basic Select | Easy | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | 10 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/20-Employee_Names.sql) |
 |21.| Basic Select | Easy | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | 10 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/21-Employee_Salaries.sql) |
+|22.| Advanced Select | Medium | [The Pads](https://www.hackerrank.com/challenges/the-pads/problem) | 30 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/22-The_PADS.sql) |
