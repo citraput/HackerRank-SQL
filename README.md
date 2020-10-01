@@ -25,4 +25,4 @@
 |21.| Basic Select | Easy | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | 10 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/21-Employee_Salaries.sql) |
 |22.| Advanced Select | Medium | [The Pads](https://www.hackerrank.com/challenges/the-pads/problem) | 30 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/22-The_PADS.sql) |
 |23.| Advanced Select | Medium | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | 20 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/23-Type_Of_Triangle.sql) |
-|24.| Advanced Select | Medium | [Type of Triangle](https://www.hackerrank.com/challenges/occupations/problem) | 30 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/24-Occupations.sql) |
+|24.| Advanced Select | Medium | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | 30 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/24-Occupations.sql) |
