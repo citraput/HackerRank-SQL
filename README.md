@@ -1,4 +1,4 @@
-# Hackerrank-SQL
+# HackerRank-SQL
 
 |No|Subdomains | Difficulty | Challenge | Points | Solution |
 |--|--|--|--|--|--|
