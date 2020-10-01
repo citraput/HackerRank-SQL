@@ -21,5 +21,5 @@
 |17.| Basic Select | Easy | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | 15 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/17-Weather_Observation_Station_11.sql) |
 |18.| Basic Select | Easy | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | 15 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/18-Weather_Observation_Station_12.sql) |
 |19.| Basic Select | Easy | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | 15 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/19-Higher_Than_75_Marks.sql) |
-|20.| Basic Select | Easy | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | 15 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/20-Employee_Names.sql) |
-|21.| Basic Select | Easy | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | 15 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/21-Employee_Salaries.sql) |
+|20.| Basic Select | Easy | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | 10 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/20-Employee_Names.sql) |
+|21.| Basic Select | Easy | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | 10 | [MySQL](https://github.com/citraput/Hackerrank-SQL/blob/master/21-Employee_Salaries.sql) |
